@@ -1,7 +1,7 @@
 # TaffyDB (taffy.js)
 
 TaffyDB is an open source JavaScript library that provides powerful
-in-memory database capabilities to both browser and server applications.
+in-memory database capabilities to both browser anud server applications.
 
 ## Introduction
 
@@ -78,7 +78,7 @@ Just pass in a JSON array:
       .supplant("<tr><td>{name}</td><td>{price}</td></tr>");
 
 ## Use it in Node.JS
-Node is easy to use in Node.JS.  Simply install using `npm` and `require` the
+TaffyDB is easy to use in Node.JS.  Simply install using `npm` and `require` the
 package:
 
     $ npm install --production taffy
